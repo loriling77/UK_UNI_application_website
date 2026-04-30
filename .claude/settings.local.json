@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:cfeuk.com)",
+      "WebFetch(domain:www.shikshacampus.com)",
+      "WebFetch(domain:www.hotcoursesabroad.com)",
+      "Bash(node *)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:www.grove-education.com)",
+      "WebFetch(domain:www.topuniversities.com)",
+      "Bash(npx tsc *)"
+    ]
+  }
+}

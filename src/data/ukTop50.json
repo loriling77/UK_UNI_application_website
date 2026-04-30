@@ -1,0 +1,252 @@
+[
+    {
+        "name": "University of Cambridge",
+        "image": "/assets/cambridge.jpg",
+        "website": "https://www.cam.ac.uk/"
+    },
+    {
+        "name": "University of Oxford",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Worcester_College%2C_Oxford_-_main_quadrangle.jpg",
+        "website": "https://www.ox.ac.uk/"
+    },
+    {
+        "name": "Imperial College London",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Imperial_College_Royal_School_of_Mines.jpg",
+        "website": "https://www.imperial.ac.uk/"
+    },
+    {
+        "name": "UCL (University College London)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/UCL_Main_Building.jpg",
+        "website": "https://www.ucl.ac.uk/"
+    },
+    {
+        "name": "University of Edinburgh",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/University_of_Edinburgh_Business_School.jpg",
+        "website": "https://www.ed.ac.uk/"
+    },
+    {
+        "name": "University of Manchester",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/University_of_Manchester_Old_Quadrangle.jpg",
+        "website": "https://www.manchester.ac.uk/"
+    },
+    {
+        "name": "King's College London",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/King%27s_College_London_Strand_Campus.jpg",
+        "website": "https://www.kcl.ac.uk/"
+    },
+    {
+        "name": "London School of Economics (LSE)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/LSE_St_Clements_Building.jpg",
+        "website": "https://www.lse.ac.uk/"
+    },
+    {
+        "name": "University of Bristol",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Wills_Memorial_Building_Bristol.jpg",
+        "website": "https://www.bristol.ac.uk/"
+    },
+    {
+        "name": "University of Warwick",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/University_of_Warwick_Main_Entrance.jpg",
+        "website": "https://warwick.ac.uk/"
+    },
+    {
+        "name": "University of Birmingham",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Aston_Webb_Hall%2C_Birmingham_University.jpg",
+        "website": "https://www.birmingham.ac.uk/"
+    },
+    {
+        "name": "University of Glasgow",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/University_of_Glasgow_-_Main_Building_and_tower.JPG",
+        "website": "https://www.gla.ac.uk/"
+    },
+    {
+        "name": "University of Leeds",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Parkinson_Building%2C_University_of_Leeds.jpg",
+        "website": "https://www.leeds.ac.uk/"
+    },
+    {
+        "name": "University of Southampton",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/University_of_Southampton_Hartley_Library_2012.JPG",
+        "website": "https://www.southampton.ac.uk/"
+    },
+    {
+        "name": "University of Sheffield",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Universityofsheffieldbartolomehouse.JPG",
+        "website": "https://www.sheffield.ac.uk/"
+    },
+    {
+        "name": "Durham University",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Durham_Cathedral_from_the_south.jpg",
+        "website": "https://www.durham.ac.uk/"
+    },
+    {
+        "name": "University of Nottingham",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Front_of_Trent_Building%2C_Nottingham_University.JPG",
+        "website": "https://www.nottingham.ac.uk/"
+    },
+    {
+        "name": "Queen Mary University of London",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/The_People%27s_Palace.jpg",
+        "website": "https://www.qmul.ac.uk/"
+    },
+    {
+        "name": "University of St Andrews",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/St_Andrews_-_University_library.JPG",
+        "website": "https://www.st-andrews.ac.uk/"
+    },
+    {
+        "name": "University of Bath",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Uni.of.bath.campus.arp.jpg",
+        "website": "https://www.bath.ac.uk/"
+    },
+    {
+        "name": "Newcastle University",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Armstrong_Building%2C_Newcastle_University_-_geograph.org.uk_-_1761955.jpg",
+        "website": "https://www.ncl.ac.uk/"
+    },
+    {
+        "name": "University of Liverpool",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/University_of_Liverpool_Victoria_Building_6.jpg",
+        "website": "https://www.liverpool.ac.uk/"
+    },
+    {
+        "name": "University of Exeter",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/University_of_Exeter%2C_Streatham_Campus_%282021-05-07%29_01.jpg",
+        "website": "https://www.exeter.ac.uk/"
+    },
+    {
+        "name": "Lancaster University",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lancaster_University_Courtyard.JPG",
+        "website": "https://www.lancaster.ac.uk/"
+    },
+    {
+        "name": "University of York",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/University-of-york_heslington-hall.jpg",
+        "website": "https://www.york.ac.uk/"
+    },
+    {
+        "name": "Cardiff University",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cardiff_University_building%2C_Cathays_Park.JPG",
+        "website": "https://www.cardiff.ac.uk/"
+    },
+    {
+        "name": "University of Reading",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/University_of_Reading_London_Road_Campus_2020-01-28_09.05.36.jpg",
+        "website": "https://www.reading.ac.uk/"
+    },
+    {
+        "name": "Queen's University Belfast",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Lanyon_Building%2C_Queen%27s_University%2C_Belfast.jpg",
+        "website": "https://www.qub.ac.uk/"
+    },
+    {
+        "name": "Loughborough University",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Loughborough_University_-_Pilkington_Library.JPG",
+        "website": "https://www.lboro.ac.uk/"
+    },
+    {
+        "name": "University of Strathclyde",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/University_of_Strathclyde_Sir_William_Duncan_Building.JPG",
+        "website": "https://www.strath.ac.uk/"
+    },
+    {
+        "name": "University of Aberdeen",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/King%27s_College_Chapel%2C_University_of_Aberdeen.jpg",
+        "website": "https://www.abdn.ac.uk/"
+    },
+    {
+        "name": "University of Surrey",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/University_of_Surrey_Senate_House.jpg",
+        "website": "https://www.surrey.ac.uk/"
+    },
+    {
+        "name": "University of Sussex",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Falmer_House%2C_University_of_Sussex.JPG",
+        "website": "https://www.sussex.ac.uk/"
+    },
+    {
+        "name": "Heriot-Watt University",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Heriot-Watt_University_main_building.jpg",
+        "website": "https://www.hw.ac.uk/"
+    },
+    {
+        "name": "Swansea University",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Fulton_House_Swansea_University.jpg",
+        "website": "https://www.swansea.ac.uk/"
+    },
+    {
+        "name": "City, University of London",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/City_University_London_Northampton_Square.jpg",
+        "website": "https://www.city.ac.uk/"
+    },
+    {
+        "name": "University of Leicester",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Fielding_Johnson_Building%2C_University_of_Leicester.jpg",
+        "website": "https://le.ac.uk/"
+    },
+    {
+        "name": "Oxford Brookes University",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Oxford_Brookes_University_main_campus.jpg",
+        "website": "https://www.brookes.ac.uk/"
+    },
+    {
+        "name": "University of East Anglia (UEA)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/University_of_East_Anglia%2C_Norwich_-_geograph.org.uk_-_2526399.jpg",
+        "website": "https://www.uea.ac.uk/"
+    },
+    {
+        "name": "Brunel University London",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Uxbridge%2C_Brunel_University_-_geograph.org.uk_-_800408.jpg",
+        "website": "https://www.brunel.ac.uk/"
+    },
+    {
+        "name": "Birkbeck, University of London",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Birkbeck_College_main_building.jpg",
+        "website": "https://www.bbk.ac.uk/"
+    },
+    {
+        "name": "Aston University",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Birmingham_-_Aston_University.JPG",
+        "website": "https://www.aston.ac.uk/"
+    },
+    {
+        "name": "University of Kent",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Marlowe_Building_-_UKC.JPG",
+        "website": "https://www.kent.ac.uk/"
+    },
+    {
+        "name": "University of Dundee",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/University_of_Dundee_-_Tower_Building.jpg",
+        "website": "https://www.dundee.ac.uk/"
+    },
+    {
+        "name": "University of Essex",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Rab_Butler_Building%2C_University_of_Essex.JPG",
+        "website": "https://www.essex.ac.uk/"
+    },
+    {
+        "name": "Royal Holloway, University of London",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Royal_Holloway%2C_University_of_London.jpg",
+        "website": "https://www.royalholloway.ac.uk/"
+    },
+    {
+        "name": "University of Stirling",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/University_of_Stirling_campus.jpg",
+        "website": "https://www.stir.ac.uk/"
+    },
+    {
+        "name": "Northumbria University",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Northumbria_University_City_Campus_East.jpg",
+        "website": "https://www.northumbria.ac.uk/"
+    },
+    {
+        "name": "University of Lincoln",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/University_of_Lincoln_Sarah_Swift_Building.jpg",
+        "website": "https://www.lincoln.ac.uk/"
+    },
+    {
+        "name": "University of Portsmouth",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/University_of_Portsmouth_Guildhall_Walk.jpg",
+        "website": "https://www.port.ac.uk/"
+    }
+]
